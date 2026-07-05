@@ -1,0 +1,6 @@
+# 1. 保存新写的代码
+git add .
+# 2. 提交，备注写清题号和题目
+git commit -m "LeetCode 1 两数之和 哈希解法"
+# 3. 上传云端
+git push
